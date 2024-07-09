@@ -1,6 +1,6 @@
 Welcome!
 
-This github page is purposed to share TM robot developers with all sorts sample code of different usage and cases.
+This github page is to share TM robot developers with all sorts sample code of different usage and cases.
 Enjoy!
 
 <!---
