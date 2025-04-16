@@ -1,5 +1,5 @@
 # Overview
-Welcome! This GitHub page is dedicated to helping developers explore and understand the capabilities of secondary development with TM AI cobots. At Techman Robot, we believe that developers are the driving force behind innovation and creativity in robotics. Your vision, creativity, and expertise are what push the boundaries of what is possible with TM AI cobots. We are committed to providing you with powerful and flexible tools and a range of features tailored to bring your ideas to life. Here, we introduce 3 different fields of development you can explore on our robotics platform:
+Welcome! This GitHub page is dedicated to helping developers explore and understand the capabilities of with TM AI cobots. At Techman Robot, we believe that developers are the driving force behind innovation and creativity in robotics. Your vision, creativity, and expertise are what push the boundaries of what is possible with TM AI cobots. We are committed to providing you with powerful and flexible tools and a range of features tailored to bring your ideas to life. Here, we introduce 3 different fields of development you can explore on our robotics platform:
 - Programming on Robot
 - Remote Control
 - Custom Plugins
